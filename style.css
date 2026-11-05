@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+    color: #333;
+}
+ 
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+ 
+th {
+    background-color: #0b1528;
+    color: white;
+    padding: 10px;
+    border: 1px solid #1a263b;
+}
+ 
+td {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+}
+ 
+.linha {
+    border-top: 2px solid #999;
+}
+ 
+.total {
+    font-weight: bold;
+    background-color: #f9f9f9;
+    border-top: 2px solid #999;
+}
+ 
+.direita { text-align: right; }
+.centro { text-align: center; }
+.negrito { font-weight: bold; }
+.verde { color: #2e7d32; font-weight: bold; }
+.vermelho { color: #c62828; font-weight: bold
